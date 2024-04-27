@@ -1,0 +1,1 @@
+The Accuracy of MEM model for SPam classifier is 95.4927536231884 The Precision of MEM model for SPam classifier is 87.76758409785933 The Recall of MEM model for SPam classifier is 94.40789473684211 The F_beta_sqaure score for Spam classifier is 22.741679873217116
